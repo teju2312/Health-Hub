@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Healthhub" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorPrimaryVariant">@color/pink</item>
+        <item name="colorOnPrimary">@color/White</item>
+        <!--      Secondary brand color-->
+        <item name="colorSecondary">@color/Teal</item>
+        <item name="colorOnSecondary">@color/Black</item>
+    </style>
+
+    <style name="Theme.Healthhub" parent="Base.Theme.Healthhub" />
+</resources>
